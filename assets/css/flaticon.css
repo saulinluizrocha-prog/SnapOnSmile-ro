@@ -1,0 +1,97 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url(../fonts/Flaticon.eot);
+	src: url(../fonts/Flaticon.eot_253F) format("embedded-opentype"), url(../fonts/Flaticon.woff2) format("woff2"), url(../fonts/Flaticon.woff) format("woff"), url(../fonts/Flaticon.ttf) format("truetype"), url(../fonts/Flaticon.svg) format("svg");
+	font-weight: 400;
+	font-style: normal
+}
+@font-face {
+	font-family: "Flaticon";
+	src: url(../fonts/Flaticon.svg) format("svg")
+}
+[class^="Flaticon-"]:before, [class*=" Flaticon-"]:before, [class^="Flaticon-"]:after, [class*=" Flaticon-"]:after {
+	font-family: Flaticon;
+	font-size: 20px;
+	font-style: normal
+}
+.Flaticon-checked:before {
+	content: "\f100";
+}
+.Flaticon-tick-1:before {
+	content: "\f101";
+}
+.Flaticon-direction:before {
+	content: "\f102";
+}
+.Flaticon-curved-arrow:before {
+	content: "\f103";
+}
+.Flaticon-close:before {
+	content: "\f104";
+}
+.Flaticon-left-down:before {
+	content: "\f105";
+}
+.Flaticon-telephone:before {
+	content: "\f106";
+}
+.Flaticon-old-handphone:before {
+	content: "\f107";
+}
+.Flaticon-call-answer:before {
+	content: "\f108";
+}
+.Flaticon-black-back-closed-envelope-shape:before {
+	content: "\f109";
+}
+.Flaticon-new-email-envelope:before {
+	content: "\f10a";
+}
+.Flaticon-call:before {
+	content: "\f10b";
+}
+.Flaticon-back-1:before {
+	content: "\f10c";
+}
+.Flaticon-next-1:before {
+	content: "\f10d";
+}
+.Flaticon-right-arrow:before {
+	content: "\f10e";
+}
+.Flaticon-left-arrow:before {
+	content: "\f10f";
+}
+.Flaticon-quote-left:before {
+	content: "\f110";
+}
+.Flaticon-check:before {
+	content: "\f111";
+}
+.Flaticon-tick:before {
+	content: "\f112";
+}
+.Flaticon-check-1:before {
+	content: "\f113";
+}
+.Flaticon-attention:before {
+	content: "\f114";
+}
+.Flaticon-attention-1:before {
+	content: "\f115";
+}
+.Flaticon-arrow-point-to-down:before {
+	content: "\f116";
+}
+.Flaticon-next:before {
+	content: "\f117";
+}
+.Flaticon-triangular:before {
+	content: "\f118";
+}
+.Flaticon-back:before {
+	content: "\f119";
+}
+.Flaticon-triangle:before {
+	content: "\f11a";
+}

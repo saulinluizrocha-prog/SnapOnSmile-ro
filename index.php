@@ -1,0 +1,680 @@
+<!DOCTYPE html>
+<html style="height: auto;">
+<head>
+<title>Zâmbet perfect fără să mergeți la dentist</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="assets/css/magnific-popup.css">
+<link rel="stylesheet" href="assets/css/flaticon.css">
+<link rel="stylesheet" href="assets/css/twentytwenty.css">
+<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+<link rel="stylesheet" href="assets/css/animate.css">
+<link rel="stylesheet" href="assets/css/main.css">
+<link rel="stylesheet" href="assets/css/stylespin.css">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <!-- INTH_SNIPPET_TOP -->
+  
+		
+</head>
+<body>
+  <div class="site-wrapper">
+    <header class="site-header">
+      <div class="container">
+        <div class="row justify-content-between">
+          <div class="col-lg-6 logo-wrap"> <a class="logo"> <img src="assets/img/logo.png" alt="Лого"> </a> </div>
+          <div class="col-xl-15 col-lg-16">
+            <div class="header-img">
+              <div class="header-img-item"> <img src="assets/img/header-img-1.png" alt="1">
+                <div class="header-img-txt">Utilizat în  <br>
+                  94 clinici din România</div>
+              </div>
+              <div class="header-img-item"> <img src="assets/img/header-img-2.png" alt="2">
+                <div class="header-img-txt">Fabricat din  <br>
+                  materiale ecologice</div>
+              </div>
+              <div class="header-img-item"> <img src="assets/img/header-img-3.png" alt="3">
+                <div class="header-img-txt">Confortabil  <br>
+                  pentru utilizare constantă</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <div style="text-align: center;padding: 10px;background-color: #d7000017;color: #f00;font-weight: bold;">Toate ambalajele sunt dezinfectate!</div>
+    <main class="site-main">
+      <section class="main-screen">
+        <div class="girl-bg">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-16">
+                <div class="main-scr-cnt">
+                  <h1 class="main-caption wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Zâmbet perfect fără  <br>
+                    să mergeți la dentist</h1>
+                  <div class="main-scr-sub-title wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Cu tehnologie inovatoare SnapOnSmile</div>
+                  <ul class="main-scr-list wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+                    <li>Ultra-subțiri, durabile și confortabile</li>
+                    <li>Dimensiune universală</li>
+                    <li>Fixare eficientă</li>
+                  </ul>
+                  <div class="col-md-12">
+                    <div class="contact-form wow fadeInUp order_form mb-3 goto-box" style="visibility: visible; animation-name: fadeInUp;">
+                      <a href="#scroll-to" class="btn top-banner-btn bounce">Comandați acum cu o reducere</a> 
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="what">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12">
+              <h2 class="caption caption-cust wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;"><strong>Ce sunt fațetele SnapOnSmile?</strong></h2>
+              <p class="what-cnt wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Fațetele SnapOnSmile sunt un produs revoluționar în lumea stomatologiei. Este nevoie de mai puțin de 3 minute pentru a le pune și veți putea vedea în oglindă un zâmbet perfect, alb ca zăpada. <br>
+                Este important să rețineți că fațetele SnapOnSmile pot fi folosite chiar dacă aveți dinți lipsă. </p>
+              <div class="what-img wow fadeInUp d-block d-lg-none animated" style="visibility: visible; animation-name: fadeInUp;"> <img src="assets/img/what-img.jpg" class="img-responsive" alt="1"> </div>
+			  <!--
+              <ol class="what-list wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+                <li>Удобни и леки фасети, изработени по патентована технология, която гарантира максимален комфорт и безопасност при използване</li>
+                <li>Иновативен калъф за съхранение с антибактериален покритие</li>
+                <li>Специално проектирана четка за нежно почистване на фасетите отвън</li>
+                <li>Таблетки за фино почистване на фасети отвътре</li>
+                <li>Специална почистваща паста</li>
+              </ol>
+			  -->
+            </div>
+            <div class="col-lg-12">
+              <div class="what-img d-none d-lg-block"> <img src="assets/img/what-img.jpg" alt="1" class="wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;"> </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="limitations">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-24">
+              <h2 class="caption wow fadeInUp" style="text-align: center; visibility: visible; animation-name: fadeInUp;"><strong>Defectele pe care le elimină fațetele SnapOnSmile?</strong></h2>
+            </div>
+            <div class="col-lg-11">
+              <div class="limitations-wrap">
+                <div class="limitations-item wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+                  <div class="limitations-img"> <img src="assets/img/limitations-1.jpg" alt="1"> </div>
+                  <div class="limitations-cnt">
+                    <div class="limitations-title">Dinții strâmbi</div>
+                    <p class="limitations-desc">Ascunde cu ușurință curbura <br>
+                       unuia sau mai multor dinți, corectând în același timp poziția maxilarului, ceea ce asigură o distribuție mai uniformă a sarcinii între dinți.</p>
+                  </div>
+                </div>
+                <div class="limitations-item wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+                  <div class="limitations-img"> <img src="assets/img/limitations-3.jpg" alt="3"> </div>
+                  <div class="limitations-cnt">
+                    <div class="limitations-title">Spații mari între dinți</div>
+                    <p class="limitations-desc">Cu o purtare regulată, SnapOnSmile funcționează ca un dispozitiv de aliniere  <br>
+                      și nu numai că poate ascunde un astfel de defect, dar poate, <br>
+                      de asemenea, să readucă dinții spre poziția lor anatomică corectă.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-11 offset-lg-2">
+              <div class="limitations-wrap limitations-wrap-2">
+                <div class="limitations-item wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+                  <div class="limitations-img"> <img src="assets/img/limitations-2.jpg" alt="4"> </div>
+                  <div class="limitations-cnt">
+                    <div class="limitations-title">Defecte vizibile </div>
+                    <p class="limitations-desc">SnapOnSmile vă permite să ascundeți instantaneu <br>
+                       diverse defecte vizibile, cum ar fi ruperea unui dinte și îngălbenirea smalțului,  <br>
+                      conferind zâmbetului dumneavoastră un aspect estetic.</p>
+                  </div>
+                </div>
+                <div class="limitations-item wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+                  <div class="limitations-img"> <img src="assets/img/limitations-5.jpg" alt="5"> </div>
+                  <div class="limitations-cnt">
+                    <div class="limitations-title">Lipa unuia sau  <br>
+                      mai mulți dinți</div>
+                    <p class="limitations-desc">Spre deosebire de alte fațete, SnapOnSmile  <br>
+                      sunt bine fixate și sunt capabile să ascundă chiar și absența completă a unuia sau mai multor dinți.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="result">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-24">
+              <div class="plus-desc">
+                <h2 class="caption wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;"><strong>Cum va arăta zâmbetul dumneavoastră cu SnapOnSmile </strong></h2>
+                <div class="caption-desc wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">glisați <span class="slider-sm"></span>spre stânga și veți vedea rezultatul utilizării fațetelor SnapOnSmile</div>
+              </div>
+            </div>
+          </div>
+          <div class="row justify-content-center">
+            <div class="col-lg-16">
+              <div class="twentytwenty-wrapper twentytwenty-horizontal">
+                <div class="twentytwenty-wrapper twentytwenty-horizontal"><div class="twentytwenty-container wow fadeInUp" style="visibility: visible; animation-name: fadeInUp; height: 368.516px;"> <img src="assets/img/smile-before.jpg" alt="1" class="twentytwenty-before" style="clip: rect(0px, 375px, 368.516px, 0px);"> <img src="assets/img/smile-after.jpg" alt="2" class="twentytwenty-after" style="clip: rect(0px, 750px, 368.516px, 375px);">
+                  <div class="twentytwenty-overlay">
+                    <div class="twentytwenty-before-label" data-content="Before"></div>
+                    <div class="twentytwenty-after-label" data-content="After"></div>
+                  <div class="twentytwenty-before-label" data-content="Before"></div><div class="twentytwenty-after-label" data-content="After"></div></div>
+                  <div class="twentytwenty-handle" style="left: 375px;"><span class="twentytwenty-left-arrow"></span><span class="twentytwenty-right-arrow"></span><span class="twentytwenty-left-arrow"></span><span class="twentytwenty-right-arrow"></span></div>
+                <div class="twentytwenty-overlay"><div class="twentytwenty-before-label" data-content="Before"></div><div class="twentytwenty-after-label" data-content="After"></div></div><div class="twentytwenty-handle" style="left: 375px;"><span class="twentytwenty-left-arrow"></span><span class="twentytwenty-right-arrow"></span></div></div></div>
+              </div>
+              <div class="slider-comment wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+                <div class="slider-comment-item slider-comment-before">
+                  <div class="slider-comment-txt">Iată cum arată  <br>
+                    un zâmbet</div>
+                </div>
+                <div class="slider-comment-item slider-comment-after">
+                  <div class="slider-comment-txt">Cu ajutorul  <br>
+                    SnapOnSmile</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="advice">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-24">
+              <h2 class="caption wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;"><strong>Sfatul medicului stomatolog</strong></h2>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-lg-14 order-2 order-lg-1">
+              <div class="quote wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">În ultimii 5 ani, asistăm la o utilizare sporită a tehnologiilor moderne în industria sănătății și a frumuseții. Cea mai recentă descoperire brevetată garantează o precizie maximă, perfecțiune și o calitate ridicată a rezultatelor obținute cu ajutorul fațetelor. Fațetele detașabile reprezintă astăzi o tendință care oferă o oportunitate reală pentru oricine de a deveni mai atrăgător și de a avea zâmbetul la care visează, cu un minim de efort și bani.</div>
+              <dl class="advice-list wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+                <dt>Cum să încep?</dt>
+                <dd>Sunt adesea întrebat dacă este necesară o consultație de specialitate înainte de a utiliza fațetele. Dacă vorbim despre fațetele SnapOnSmile, atunci nu - nu este necesară nicio consultație.</dd>
+                <dt>Cum să aleg dimensiunea?</dt>
+                <dd>Fațetele SnapOnSmile au dimensiuni universale și pot fi ajustate la dinții dumneavoastră fără probleme.</dd>
+                <dt>Cât timp pot fi purtate fațetele?</dt>
+                <dd>Puteți purta fațete toată ziua. Mergeți la serviciu, la antrenamente, când mergeți pe jos. Datorită materialului subțire inovator, vor fi confortabile chiar și atunci când mâncați. Se recomandă îndepărtarea fațetelor pe timp de noapte.</dd>
+              </dl>
+            </div>
+            <div class="col-lg-10 order-1 order-lg-2">
+              <div class="advice-img-wrap wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;"> <img src="assets/img/advice-img.jpg" alt="1" class="img-responsive">
+                <div class="advice-img-cnt">
+                  <div class="advice-img-title">Maria Cosma </div>
+                  <div class="advice-img-desc">Ortodontist cu peste 15 ani de experiență</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <div style="text-align: center;padding: 10px;background-color: #d7000017;color: #f00;font-weight: bold;">Toate ambalajele sunt dezinfectate!</div>
+      <section class="contacts">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-24"> 
+              <div class="row justify-content-end">
+                <div class="col-xl-8 col-lg-9">
+                  <div class="contact-form wow fadeInUp order_form goto-box" style="background: none; visibility: visible; animation-name: fadeInUp;">
+                    <a href="#scroll-to" class="btn top-banner-btn bounce">Comandați acum cu o reducere</a> 
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="steps">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12  offset-lg-12 offset-md-12">
+              <h2 class="caption wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;"><strong>3 pași simpli și zâmbetul  <br>
+                tău va deveni irezistibil</strong></h2>
+              <div class="history-tl-container wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+                <ul class="tl">
+                  <li class="tl-item" ng-repeat="item in retailer_history wow fadeInUp">
+                    <div class="item-title">1 pasul </div>
+                    <div class="item-detail">Înmuiați fațetele în apă caldă timp de 1-2 minute  <br>
+                      pentru a le face maleabile</div>
+                  </li>
+                  <li class="tl-item wow fadeInUp" ng-repeat="item in retailer_history" style="visibility: visible; animation-name: fadeInUp;">
+                    <div class="item-title">2 pasul </div>
+                    <div class="item-detail">Puneți fațetele și apăsați ferm  <br>
+                      pe partea exterioară a dinților.</div>
+                  </li>
+                  <li class="tl-item wow fadeInUp" ng-repeat="item in retailer_history" style="visibility: visible; animation-name: fadeInUp;">
+                    <div class="item-title">3 pasul </div>
+                    <div class="item-detail">Asigurați-vă că fațetele sunt  <br>
+						fixate pe dinții dumneavoastră</div>
+                  </li>
+                </ul>
+              </div>
+			  <!--
+              <div class="attention wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Производителят препоръчва закупуването на специално разработена четка и паста за комплекта SnapOn Smile, както и цялостно почистване на зъбите, преди да продължите с използването на фасети. Фасетите трябва да се дезинфекцират редовно.</div>
+			  -->
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="reasons">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-24">
+              <div class="plus-desc">
+                <h2 class="caption wow fadeInUp" style="visibility: visible;">Top 3 motive pentru care clienții noștri cumpără fațete SnapOnSmile</h2>
+              </div>
+            </div>
+          </div>
+          <div class="reasons-items">
+            <div class="row no-gutters"> 
+              <div class="col-lg-8 col-md-12 order-1 order-md-1 order-lg-1 wow fadeInUp" style="visibility: visible;">
+                <div class="reasons-item order-margin-bottom" style="margin-right:20px;">
+                  <div class="reasons-cnt">
+                    <div class="reasons-title">Întâlniri de afaceri</div>
+                    <div class="reasons-desc">Toată lumea știe că un zâmbet este un instrument foarte important în eticheta de afaceri. Cel mai simplu și cel mai bun mod de a vă exprima gândurile bune față de ceilalți este să le zâmbiți. Și este foarte important ca zâmbetul să fie frumos din punct de vedere estetic.</div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-8 col-md-12 order-5 order-md-5 order-lg-5 wow fadeInUp" style="visibility: visible;">
+                <div class="reasons-item order-margin-bottom" style="margin-right:20px;">
+                  <div class="reasons-cnt">
+                    <div class="reasons-title">Interviuri  <br>
+                      de angajare</div>
+                    <div class="reasons-desc">Un zâmbet este unul dintre cele mai vechi mijloace de a obține succesul! Nimic nu atrage atenția și cucerește persoana din fața dumneavoastră ca un zâmbet sincer, frumos și sănătos. Cu fațetele SnapOnSmile, puteți fi sigur că locul de muncă la care visați este deja în mâinile dumneavoastră.</div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-8 col-md-12 order-3 order-md-3 order-lg-3 wow fadeInUp" style="visibility: visible;">
+                <div class="reasons-item order-margin order-margin-bottom">
+                  <div class="reasons-cnt">
+                    <div class="reasons-title">Nunți,  <br>
+                      zile de naștere, aniversări</div>
+                    <div class="reasons-desc">Pe lângă alegerea hainelor frumoase, a machiajului și a coafurilor, este foarte important să aveți un zâmbet orbitor și zâmbetul dumneavoastră va fi perfect în fotografii.</div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-8 col-md-12 order-2 order-md-2 order-lg-2 wow fadeInUp" style="visibility: visible;">
+                <div class="reasons-item reasons-item-img reasons-img-2 order-margin-bottom" style="margin-right:20px;"></div>
+              </div>
+              <div class="col-lg-8 col-md-12 order-6 order-md-6 order-lg-6 wow fadeInUp" style="visibility: visible;">
+                <div class="reasons-item reasons-item-img reasons-img-1  before-2 order-margin-bottom"> </div>
+              </div>
+              <div class="col-lg-8 col-md-12 order-4 order-md-4 order-lg-4 wow fadeInUp" style="visibility: visible;">
+                <div class="reasons-item reasons-item-img reasons-img-3  before-3 order-margin-bottom" style="margin-right:20px;"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="limitations">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-24">
+              <h2 class="caption wow fadeInUp" style="text-align: center; visibility: visible;"><strong>Priviți cât de confortabile sunt.</strong></h2>
+            </div>
+            <div class="col-lg-8">
+              <div class="limitations-wrap">
+                <div class="limitations-item wow fadeInUp" style="visibility: visible;"> <img src="https://cdn9.qckcdn.com/snaponsmile/nodentist/video.gif" alt="1" style="margin: 0 auto; width:100%"> </div>
+              </div>
+            </div>
+            <div class="col-lg-8">
+              <div class="limitations-wrap">
+                <div class="limitations-item wow fadeInUp" style="visibility: visible;"> <img src="https://cdn9.qckcdn.com/snaponsmile/nodentist/video2.gif" alt="2" style="margin: 0 auto;width:100%"> </div>
+              </div>
+            </div>
+            <div class="col-lg-8">
+              <div class="limitations-wrap">
+                <div class="limitations-item wow fadeInUp" style="visibility: visible;"> <img src="https://cdn9.qckcdn.com/snaponsmile/nodentist/video3.gif" alt="3" style="margin: 0 auto;width:100%"> </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="history">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-24">
+              <h2 class="caption wow fadeInUp" style="visibility: visible;"><strong>Povești reale de la clienții noștri</strong></h2>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-lg-24">
+              <div class="owl-carousel owl-theme slider-1 wow fadeInUp owl-loaded owl-drag" style="visibility: visible;">
+                <div class="owl-stage-outer">
+                  <div class="owl-stage">
+                    <div class="owl-item" style="width: 360px; margin-right: 30px;">
+                      <div class="slider-item">
+                        <div class="quote">Aceasta este prima dată când scriu o recenzie despre ceva, dar fațetele SnapOnSmile merită din plin. Dinții mei au fost întotdeauna cea mai mare problemă din viața mea, dar niciodată nu am reușit să găsesc suficienți bani pentru a merge la un dentist bun care să-mi repare zâmbetul. Într-o zi am fost „sedusă” de o reclamă și, după cum s-a dovedit, a meritat. Fațetele sunt ușor de purtat și se potrivesc bine, iar cel mai important lucru - dinții mei arată grozav și natural. Recomand cu căldură.</div>
+                        <div class="slider-data">
+                          <div class="limitations-item">
+                            <div class="limitations-img"> <img src="assets/img/slider-1-7.jpg" alt="1"> </div>
+                            <div class="limitations-cnt">
+                              <div class="limitations-title">Ioan Borcea</div>
+                              <div class="limitations-desc">41 de ani</div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div><div class="owl-item" style="width: 360px; margin-right: 30px;">
+                      <div class="slider-item">
+                        <div class="quote">Toată lumea mi-a spus că voi regreta alegerea mea mai târziu ... Nu am regretat! Mă bucur că am decis să cred în reclamă și am comandat SnapOnSmile și acum mă pot bucura de zâmbetul meu frumos.
+                          <div class="img"> 
+                          </div>
+                        </div>
+                        <div class="slider-data">
+                          <div class="limitations-item">
+                            <div class="limitations-img"> <img src="assets/img/slider-1-3.jpg" alt="3"> </div>
+                            <div class="limitations-cnt">
+                              <div class="limitations-title">Ioana Ciurea</div>
+                              <div class="limitations-desc">55 de ani</div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div><div class="owl-item" style="width: 360px; margin-right: 30px;">
+                      <div class="slider-item">
+                        <div class="quote">A trecut exact un an de când port fațete SnapOnSmile. Astăzi îmi este greu să-mi imaginez viața cu dinții strâmbi, nu mi-aș fi iertat niciodată dacă pe atunci nu aș fi îndrăznit să plasez o comandă în magazinul online. Acesta nu este un lux, ci ceva ce toată lumea trebuie să aibă - un zâmbet frumos. </div>
+                        <div class="slider-data">
+                          <div class="limitations-item">
+                            <div class="limitations-img"> <img src="assets/img/slider-1-4.jpg" alt="1"> </div>
+                            <div class="limitations-cnt">
+                              <div class="limitations-title">Felicia Dorneanu</div>
+                              <div class="limitations-desc">47 de ani</div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div><div class="owl-item" style="width: 360px; margin-right: 30px;">
+                      <div class="slider-item">
+                        <div class="quote">Toată viața am fost tachinat pentru dinții mei strâmbi și pentru zâmbetul meu urât. A fost o zi minunată atunci când am dat peste anunțul SnapOnSmile pe internet. Două click-uri mai târziu, am plasat o comandă pe site și după 4 zile am primit fațetele prin curier. Am reușit să le pun foarte ușor și rapid și, ca să fiu sinceră, prima dată când m-am privit în oglindă, nu mi-a venit să-mi cred ochilor. Un zâmbet alb și perfect. Viața începea să fie mai bună. Mulțumesc SnapOnSmile!</div>
+                        <div class="slider-data">
+                          <div class="limitations-item">
+                            <div class="limitations-img"> <img src="assets/img/slider-1-1.jpg" alt="1"> </div>
+                            <div class="limitations-cnt">
+                              <div class="limitations-title">Mihaela Popa</div>
+                              <div class="limitations-desc">42 de ani</div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div><div class="owl-item" style="width: 360px; margin-right: 30px;">
+                      <div class="slider-item">
+                        <div class="quote">Am avut probleme cu dinții mei încă de când eram copil. Asta pentru că toți sunt inegali. Recent am aflat de la un prieten despre fațetele SnapOnSmile. A spus că le poartă de mai bine de o lună și că totul a fost minunat (înainte de a avea aceeași dantură îngrozitoare ca a mea). Așa că am decis să comand. Au venit într-un ambalaj frumos, nimic nu a fost deteriorat. După ce am plasat fațetele am simțit un ușor disconfort, dar după un timp, a dispărut. Acum cel mai important lucru este că dinții mei arată frumos. Mulțumesc, SnapOnSmile!</div>
+                        <div class="slider-data">
+                          <div class="limitations-item">
+                            <div class="limitations-img"> <img src="assets/img/slider-1-6.jpg" alt="1"> </div>
+                            <div class="limitations-cnt">
+                              <div class="limitations-title">Marin Zamfir</div>
+                              <div class="limitations-desc">51 de ani</div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>  
+                    <div class="owl-item active" style="width: 360px; margin-right: 30px;">
+                      <div class="slider-item">
+                        <div class="quote">SnapOnSmile este 100% cel mai bun substitut pentru mersul la dentist. Mi-am asumat un risc, ca să fiu sinceră, ca la fiecare comandă de pe internet, pentru că nu știam prea multe despre produs în avans, dar acum cu siguranță nu regret. Chiar și slujba mea s-a îmbunătățit. Cred că acest lucru se datorează faptului că acum clienții mei au mai multă încredere în mine. Un zâmbet frumos este întotdeauna de bun augur. </div>
+                        <div class="slider-data">
+                          <div class="limitations-item">
+                            <div class="limitations-img"> <img src="assets/img/slider-1-2.jpg" alt="2"> </div>
+                            <div class="limitations-cnt">
+                              <div class="limitations-title">Gabriela Macaru</div>
+                              <div class="limitations-desc">40 de ani</div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="owl-item" style="width: 360px; margin-right: 30px;">
+                      <div class="slider-item">
+                        <div class="quote">Am folosit SnapOnSmile timp de aproximativ 4 luni. Pot spune numai lucruri bune. Se pun foarte ușor și sigur, dinții mei sunt albi, uniformi și pur și simplu perfecți. Încă nu mă pot obișnui cu faptul că le place asta! Dar pentru că sunt atât de frumoase și albe, nu am nicio motivație să mă las de fumat! Interesant este că oamenii care nu mi-au văzut zâmbetul real nici măcar nu-și dau seama că aceștia nu sunt dinții mei naturali.</div>
+                        <div class="slider-data">
+                          <div class="limitations-item">
+                            <div class="limitations-img"> <img src="assets/img/slider-1-5.jpg" alt="2"> </div>
+                            <div class="limitations-cnt">
+                              <div class="limitations-title">Bianca Voinea</div>
+                              <div class="limitations-desc">44 de ani</div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div></div>
+                </div>
+                </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="how-work">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-24">
+              <h2 class="caption wow fadeInUp" style="visibility: visible;"><strong>Cum să comandați</strong></h2>
+            </div>
+            <div class="history-tl-container tl-container-horyzontal wow fadeInUp" style="visibility: visible;">
+              <ul class="tl">
+                <li class="tl-item" ng-repeat="item in retailer_history">
+                  <div class="tl-item-img"> <img src="assets/img/steps-img-1.png" alt="1"> </div>
+                  <div class="item-title">1. Lăsați  <br>
+                    cererea dumneavoastră pe acest site</div>
+                </li>
+                <li class="tl-item" ng-repeat="item in retailer_history">
+                  <div class="tl-item-img"> <img src="assets/img/steps-img-2.png" alt="2"> </div>
+                  <div class="item-title">2. Unul dintre colegii  <br>
+                    noștri vă va contacta</div>
+                </li>
+                <li class="tl-item" ng-repeat="item in retailer_history">
+                  <div class="tl-item-img"> <img src="assets/img/steps-img-3.png" alt="3"> </div>
+                  <div class="item-title">3. Vom livra  <br>
+                    la adresa pe care ați menționat-o</div>
+                </li>
+                <li class="tl-item" ng-repeat="item in retailer_history">
+                  <div class="tl-item-img"> <img src="assets/img/steps-img-4.png" alt="4"> </div>
+                  <div class="item-title">4. Plătiți produsele  <br>
+                    numai după ce le primiți</div>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="lottery" style="background-color: #ededed;padding: 3rem 0;">
+        <div class="container">
+          <div class="spinner-wrapper">
+            <div id="scroll-to"></div>
+            <div class="spinner" id="spinner" style="transform: rotate(2189deg);">
+              <div class="spinner-percent-10">10%</div>
+              <div class="spinner-percent-20">20%</div>
+              <div class="spinner-percent-30">30%</div>
+              <div class="spinner-percent-40">40%</div>
+              <div class="spinner-percent-50">20%</div>
+              <div class="spinner-percent-60">30%</div>
+              <div class="spinner-percent-70">40%</div>
+              <div class="spinner-percent-80">50%</div>
+              <div class="spinner-line-hor"></div>
+              <div class="spinner-line-ver"></div>
+              <div class="spinner-line-ang-l"></div>
+              <div class="spinner-line-ang-r"></div>
+            </div>
+            <div class="spinner-btn"><span class="spinner-btn-text">FACEȚI CLICK,<br>  pentru a câștiga o reducere</span> </div>          
+          </div>
+          <div class="lottery-shoe-msg">Puteți participa la tragere <span>la sorți doar 1 (o) singură dată.</span> </div>
+        </div>
+      </section>
+      <footer class="site-footer orders" style="">
+        <div class="congrads" style="padding-top:20px">REDUCEREA DUMNEAVOASTRĂ  <span>PERSONALĂ LA FAȚETELE </span>
+          <div class="congrads-descr" style="text-transform:uppercase">SNAPONSMILE  <span>ESTE DE 50 %!</span> </div>
+        </div>
+        <div class="timer__block wow fadeInUp  animated" style="visibility: visible; animation-name: fadeInUp;">
+          <p>Grăbiți-vă, mai aveți:<br>
+            <span> <span class="min">09</span>:<span class="sec">27</span> </span> </p>
+        </div>
+        <div class="container">
+          <div class="row align-items-center" style="padding-top: 0;">
+            <div class="col-xl-8 col-lg-12">
+              <h2 class="caption wow fadeInUp  animated" style="visibility: visible; animation-name: fadeInUp;"><strong>Grăbiți-vă să comandați  <br>
+                fațete SnapOnSmile</strong></h2>
+              <div class="footer-desc wow fadeInUp  animated" style="visibility: visible; animation-name: fadeInUp;">Cel mai simplu  <br>
+                și mai accesibil mod  <br>
+                spre un  <br>
+                zâmbet fermecător.  <br>
+                Încercați și convingeți-vă singur!</div>
+            </div>
+            <div class="timer__block-mob wow fadeInUp animated animated" style="text-align: center; font-size: 20px; visibility: visible; animation-name: fadeInUp;">
+              <p>Grăbiți-vă, mai aveți:<br>
+                <span> <span class="min">09</span>:<span class="sec">27</span> </span> </p>
+            </div>
+            <div class="col-xl-7 col-lg-12">
+              <form method="post"  id="form2" class="contact-form wow fadeInUp order_form  animated orderForm  " style="visibility: visible; animation-name: fadeInUp;">
+                <div class="form-top-cnt">
+                  <div class="form-top-item">
+                    <div class="form-top-cnt-action">Preț</div>
+                    <div class="form-top-cnt-old-price">358.00lei</div>
+                  </div>
+                  <div class="form-top-item">
+                    <div class="form-top-cnt-title">preț redus</div>
+                    <div class="form-top-cnt-new-price">179.00lei</div>
+                  </div>
+                </div>
+                <input class="input-form phone order_data required" type="text" name="name" placeholder="Numele dumneavoastră" required>
+                <input class="input-form phone order_data required" name="phone" type="text" placeholder="Telefonul dumneavoastră"  onkeyup="this.value=this.value.replace(/\s/,'')" minlength="5"    required>
+                <button type="submit" data-pid="114" data-campaign-uri="268293" class="button submit-btn buynow" >Confirmați comanda dumneavoastră</button>
+                <div class="contact-bottom-txt">Articolele  <br>
+                  rămase în stoc: <span>15</span></div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </main>
+  </div>
+<script src="assets/js/jquery.twentytwenty.js"></script> 
+<script src="https://cdn1.qckcdn.com/o//SNAPONSMILE/NoDentist/RO/js/owl.carousel.min.js"></script> 
+
+<script>
+    $(window).on("load", function () {
+      $(".twentytwenty-container[data-orientation!='vertical']").twentytwenty({
+        default_offset_pct: 0.5
+      });
+      $(".twentytwenty-container[data-orientation='vertical']").twentytwenty({
+        default_offset_pct: 0.5,
+        orientation: 'vertical'
+      });
+    });
+  </script> 
+  
+<script src="assets/js/wow.js"></script> 
+<script src="assets/js/my-scripts.js"></script> 
+
+<script>
+    function outputDat(m, fullM) {
+      var d = new Date();
+      var p = new Date(d.getTime() - m * 86400000);
+      var monthA = (fullM === false) ? '01,02,03,04,05,06,07,08,09,10,11,12'.split(',') :
+        'януари,февруари,март,април,май,юни,юли,август,септември,октомври,ноември,декември'.split(',');
+      var w = p.getDate();
+      var ret = (fullM === false) ? p.getDate() + '.' + monthA[p.getMonth()] + '.' + p.getFullYear() : p.getDate() +
+        ' ' + monthA[p.getMonth()] + ' ' + p.getFullYear();
+      return ret;
+    }
+
+    var time = 600;
+    var intr;
+
+    function start_timer() {
+      intr = setInterval(tick, 1000);
+    }
+
+    function tick() {
+      time = time - 1;
+      var mins = Math.floor(time / 60);
+      var secs = time - mins * 60;
+      if (mins == 0 && secs == 0) {
+        clearInterval(intr);
+      }
+      secs = secs >= 10 ? secs : "0" + secs;
+      $(".min").html("0" + mins);
+      $(".sec").html(secs);
+    }
+    start_timer();
+  </script> 
+  
+<script src="assets/js/jquery.event.move.js"></script> 
+<script src="assets/js/libs.min.js"></script>
+<script src="assets/js/scripts.js"></script>
+
+
+   <?php
+if (!function_exists('curl_version')) {
+    echo 'Curl is not installed';
+}
+
+if ($_SERVER["REQUEST_METHOD"]=="POST") {
+    // Required params
+    $token = 'YZA0ZJDLZWYTZDK4ZC00YMJJLWJJNJATODZKNGJJMTE2MZQ4';
+    $stream_code = 'u2z8e';
+
+    // Fields to send
+    $post_fields = [
+        'stream_code'   => $stream_code,    // required
+        'client'        => [
+            'phone'     => $_POST['phone'], // required
+            'name'      => $_POST['name'],
+            'surname'   => (empty($_POST['surname'])) ? null : $_POST['surname'],
+            'email'     => (empty($_POST['email'])) ? null : $_POST['email'],
+            'address'   => (empty($_POST['address'])) ? null : $_POST['address'],
+            'ip'        => (empty($_POST['ip'])) ? null : $_POST['ip'],
+            'country'   => (empty($_POST['country'])) ? null : $_POST['country'],
+            'city'      => (empty($_POST['city'])) ? null : $_POST['city'],
+            'postcode'  => (empty($_POST['postcode'])) ? null : $_POST['postcode'],
+        ],
+        'sub1'      => (empty($_POST['sub1'])) ? $_GET['sub1'] : $_POST['sub1'],
+        'sub2'      => (empty($_POST['sub2'])) ? $_GET['sub2'] : $_POST['sub2'],
+        'sub3'      => (empty($_POST['sub3'])) ? $_GET['sub3'] : $_POST['sub3'],
+        'sub4'      => (empty($_POST['sub4'])) ? $_GET['sub4'] : $_POST['sub4'],
+        'sub5'      => (empty($_POST['sub5'])) ? $_GET['sub5'] : $_POST['sub5'],
+    ];
+
+    $headers = [
+        'Content-Type: application/json',
+        'Authorization: Bearer ' . $token
+    ];
+
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL,"https://order.drcash.sh/v1/order");
+    curl_setopt($ch, CURLOPT_POST, true);
+    curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($post_fields));
+    curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+    curl_setopt($ch, CURLOPT_HEADER, true);
+
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+
+    $response = curl_exec($ch);
+    $httpcode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+    $header_size = curl_getinfo($ch, CURLINFO_HEADER_SIZE);
+    $body = substr($response, $header_size);
+
+    curl_close ($ch);
+
+    if ($httpcode != 200) {
+        echo 'Error: ' . $httpcode;
+        echo '<br>';
+        echo $response;
+    }
+    if ($httpcode == 200) {
+        echo '<script language="javascript" type="text/javascript">
+            window.location.href = "./thanks";
+        </script>';
+    }
+}
+?>
+
+ 
+ 
+  </body>
+</html> 
