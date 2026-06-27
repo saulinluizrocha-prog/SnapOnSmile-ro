@@ -84,7 +84,7 @@ export default async function handler(req, res) {
     const text = await upstream.text();
 
     if (upstream.ok) {
-      return res.status(200).json({ redirect: '/ro/success' });
+      return res.status(200).json({ redirect: '/thanks' });
     } else {
       console.error('[ro-send] upstream error', upstream.status, text);
       return res.status(upstream.status).json({ error: 'upstream_error', detail: text });
