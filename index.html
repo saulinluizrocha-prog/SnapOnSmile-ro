@@ -616,7 +616,8 @@
     .then(function(res) { return res.json(); })
     .then(function(data) {
       if (data.redirect) {
-        window.location.href = data.redirect;
+        var leadName = document.getElementById('field-name').value.trim();
+        window.location.href = data.redirect + (leadName ? '?name=' + encodeURIComponent(leadName) : '');
       } else {
         btn.disabled = false;
         btn.textContent = 'Confirmați comanda dumneavoastră';
